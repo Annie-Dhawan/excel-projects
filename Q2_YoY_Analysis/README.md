@@ -11,7 +11,7 @@ I think they just want to see Q2 2021 volume by region and wanted to know if eve
 
 I appreciate your help!
 
-In this project I cleaned the data, showed the data in a well structured manner and then analysed it and made a summary sheet giving my suggestions as to what went wrong or right in Q2 2021.
+In this project I cleaned the data, presented the data in a well structured manner and then analysed it and made a summary sheet giving my suggestions as to what went wrong or right in Q2 2021.
 
 The summary sheet looks like:
 
